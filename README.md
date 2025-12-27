@@ -7,4 +7,4 @@ Text-to-Speech: Responds to users with synthesized speech.
 Task Management: Can set reminders, timers, and alarms.
 Information Retrieval: Answers questions using online resources.
 Music Playback: Plays music from specified sources.
-Customizable: Easily extendable to include new features and integrations.
+Customizable: Easily extendable to include new features and integrations
